@@ -1,7 +1,6 @@
 {
   "name": "viet-cho-tao",
   "homepage": "https://trungnguyen2807.github.io/vietchotao/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
